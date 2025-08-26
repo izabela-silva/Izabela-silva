@@ -3,5 +3,5 @@
 👨‍💻 **Senior Software Engineer**  
 🔷 **.NET Specialist**  
 🌎 Based in Campinas, Brazil  
-🎂 25 years old
-💡Problem-solving
+🎂 25 years old  
+💡Expert in Problem-solving
